@@ -22,6 +22,10 @@ Create a new calculated field named "Voter Turnout" (Confirmed Voters/Registered
 
 ![What about among 18-24 year old voters specifically?](Analysis-4b.png)
 
+Inorder to improve voter turnout rates among young adults (18-24), which particular states would be targeted first?
+
+![Inorder to improve voter turnout rates among young adults (18-24), which particular states would be targeted first?](Analysis-5.png)
+
 
 
 
