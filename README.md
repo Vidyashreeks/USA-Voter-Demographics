@@ -7,5 +7,11 @@ How many states had a Voter Population % below 55%? Which states?
 
 ![How many states had a Voter Population % below 55%? Which states?](Analysis-1.png)
 
+How many confirmed voters in California were over 65 years old in 2012? What percentage does that represent out of the total confirmed voters in California? What percentage out of the confirmed voters in the entire country?
+
+![How many confirmed voters in California were over 65 years old in 2012? What percentage does that represent out of the total confirmed voters in California? What percentage out of the confirmed voters in the entire country?](Analysis-2.png)
+
+
+
 
 
