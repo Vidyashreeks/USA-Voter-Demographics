@@ -11,6 +11,10 @@ How many confirmed voters in California were over 65 years old in 2012? What per
 
 ![How many confirmed voters in California were over 65 years old in 2012? What percentage does that represent out of the total confirmed voters in California? What percentage out of the confirmed voters in the entire country?](Analysis-2.png)
 
+Show both Citizen Population and Confirmed Voters by Age, as % of Column Total. What percentage of the citizen population do 45 to 64 year olds represent? What percentage of the confirmed voter population?   
+
+![Show both Citizen Population and Confirmed Voters by Age, as % of Column Total. What percentage of the citizen population do 45 to 64 year olds represent? What percentage of the confirmed voter population?](Analysis-3.png)
+
 
 
 
