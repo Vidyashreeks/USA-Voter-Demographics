@@ -15,6 +15,13 @@ Show both Citizen Population and Confirmed Voters by Age, as % of Column Total. 
 
 ![Show both Citizen Population and Confirmed Voters by Age, as % of Column Total. What percentage of the citizen population do 45 to 64 year olds represent? What percentage of the confirmed voter population?](Analysis-3.png)
 
+Create a new calculated field named "Voter Turnout" (Confirmed Voters/Registered Voters), formatted as a percentage with 2 decimal points. Which state had the highest voter turnout rate? What about among 18-24 year old voters specifically?
+
+![Create a new calculated field named "Voter Turnout" (Confirmed Voters/Registered Voters), formatted as a percentage with 2 decimal points. Which state had the highest voter turnout rate?](Analysis-4a.png)
+
+
+![What about among 18-24 year old voters specifically?](Analysis-4b.png)
+
 
 
 
